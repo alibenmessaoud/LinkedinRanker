@@ -1,6 +1,9 @@
 # Eclipse meta data
 .metadata
 
+# LinkedinRanker generated file
+accessToken.txt
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
